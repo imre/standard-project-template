@@ -1,13 +1,14 @@
-# Urban Mobility Model!
+# {{PROJECT_NAME}}
 
-Modelling real-time traffic for smart cities.
+{{PROJECT_DESCRIPTION}}
 
 ## >> INITIAL SETUP FOR NEW PROJECTS <<   
 
 When you create a new project, we recommend that you do the following additional manual steps (and then delete this section of the readme).
 
-- Add project details to this Readme!
-- (…other bullet points…)
+- Add project details to this Readme!  
+- Go to **Settings → Code security and Analysis** and enable “Dependabot Version Updates.” This will automatically create Pull Requests to keep your dependencies up-to-date. To activate this feature, you will need to specify the package ecosystem (e.g. NPM) and save the YML file.  
+- Add a brief description of the project to the **About** section (top right of this page). If your project involves a website, then add the URL here too.
 
 ---
 
@@ -19,38 +20,84 @@ When you create a new project, we recommend that you do the following additional
 
 ### Project Team
 
-| Name              | Role | Affiliation          |
-|-------------------|------|----------------------|
-| Imre Draskovits | PI   | Newcastle University |
-| Jane Doe | RSE  | Newcastle University |
+{{TEAM_MD}}
 
 ---
 
 ## Built With
 
-- [Python](https://www.python.org)
-- [Docker](https://www.docker.com)
+{{BUILT_WITH_MD}}
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+Any tools or versions of languages needed to run code. For example, specific Python or Node versions. Minimum hardware requirements also go here.
+
+### Installation
+
+How to build or install the application.
+
+### Running Locally
+
+How to run the application on your local system. Examples of this would include `venv`, `anaconda`, `node`, `Docker` or `minikube`. 
+
+### Running Tests
+
+How to run tests on your local system.
 
 ---
 
 ## Deployment
 
-Azure VM (Ubuntu), GitHub Actions
+Target: {{DEPLOYMENT_TARGET}}
 
 ---
 
 ## License
 
-MIT
+{{LICENSE}}
+
+---
+
+## Repository
+
+{{REPO_URL}}
+
+---
+
+## Website
+
+{{WEBSITE_URL}}
+
+---
+
+## Timeline
+
+**Start Date:** {{START_DATE}}  
+**End Date:** {{END_DATE}}
 
 ---
 
 ## Contributing
-(…static text…)
+
+### Main Branch
+
+Protected and can only be pushed to via pull requests. It should be considered stable and a representation of production code.
+
+### Dev Branch
+
+Should be considered fragile; code should compile and run, but features may be prone to errors.
+
+### Feature Branches
+
+A branch per feature that is being worked on. See: https://nvie.com/posts/a-successful-git-branching-model/
 
 ---
 
 ## Acknowledgements
 
-This work was funded by a grant from the EPSRC (EP/XXXXXX/1), “Example grant for urban modelling”.
+{{ACKNOWLEDGEMENTS}}
 
