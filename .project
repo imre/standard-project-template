@@ -1,0 +1,17 @@
+PROJECT_NAME=Urban Mobility Model
+PROJECT_DESCRIPTION=Modelling real-time traffic for smart cities.
+PI_NAME=Imre Draskovits
+PI_AFFILIATION=Newcastle University
+RSE_NAME=Jane Doe
+RSE_AFFILIATION=Newcastle University
+LICENSE=MIT
+FUNDING_BODY=EPSRC
+GRANT_REF=EP/XXXXXX/1
+FUNDING_TITLE=Example grant for urban modelling
+DEPLOYMENT_TARGET=Azure VM (Ubuntu), GitHub Actions
+BUILT_WITH=Python|https://www.python.org,Docker|https://www.docker.com
+REPO_URL=https://github.com/imred/urban-mobility
+WEBSITE_URL=https://example.ncl.ac.uk
+START_DATE=2025-06-01
+END_DATE=2026-06-01
+
