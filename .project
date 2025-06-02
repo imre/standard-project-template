@@ -13,5 +13,5 @@ BUILT_WITH=Python|https://www.python.org,Docker|https://www.docker.com
 REPO_URL=https://github.com/imred/urban-mobility
 WEBSITE_URL=https://example.ncl.ac.uk
 START_DATE=2025-06-01
-END_DATE=2026-06-01
+END_DATE=2026-06-02
 
