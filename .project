@@ -1,33 +1,25 @@
-# Core project metadata
-PROJECT_NAME=Urban Mobility Model!
+PROJECT_NAME=Urban Mobility Model
 PROJECT_DESCRIPTION=Modelling real-time traffic for smart cities.
 PROJECT_DESCRIPTION_LONG=An interdisciplinary effort to build a digital twin of urban traffic, combining live sensor feeds, historical datasets, and machine learning to optimise flow and reduce emissions.
 
-# Project team
 PI_NAME=Imre Draskovits
 PI_AFFILIATION=Newcastle University
 RSE_NAME=Jane Doe
 RSE_AFFILIATION=Newcastle University
 
-# Built-with dependencies (comma-separated Name|URL)
 BUILT_WITH=Python|https://www.python.org,Docker|https://www.docker.com
 
-# License
 LICENSE=MIT
 
-# Acknowledgements / funding
 FUNDING_BODY=EPSRC
 GRANT_REF=EP/XXXXXX/1
 FUNDING_TITLE=Example grant for urban modelling
 
-# Deployment details
 DEPLOYMENT_TARGET=Azure VM (Ubuntu), GitHub Actions
 
-# Repository & website
-REPO_URL=https://github.com/imred/urban-mobility
+REPO_URL=https://github.com/imre/urban-mobility
 WEBSITE_URL=https://example.ncl.ac.uk
 
-# Timeline
-START_DATE=2025-06-01
-END_DATE=2026-06-01
+START_DATE=2025-01-02
+END_DATE=2026-06-02
 
