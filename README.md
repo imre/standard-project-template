@@ -1,6 +1,6 @@
-# {{PROJECT_NAME}}
+# Urban Mobility Model
 
-{{PROJECT_DESCRIPTION}}
+Modelling real-time traffic for smart cities.
 
 ## >> INITIAL SETUP FOR NEW PROJECTS <<   
 
@@ -20,13 +20,17 @@ When you create a new project, we recommend that you do the following additional
 
 ### Project Team
 
-{{TEAM_MD}}
+| Name              | Role | Affiliation          |
+|-------------------|------|----------------------|
+| Imre Draskovits | PI   | Newcastle University |
+| Jane Doe | RSE  | Newcastle University |
 
 ---
 
 ## Built With
 
-{{BUILT_WITH_MD}}
+- [Python](https://www.python.org)
+- [Docker](https://www.docker.com)
 
 ---
 
@@ -76,5 +80,5 @@ Reference: https://nvie.com/posts/a-successful-git-branching-model/
 
 ## Acknowledgements
 
-{{ACKNOWLEDGEMENTS}}
+This work was funded by a grant from the EPSRC (EP/XXXXXX/1), “Example grant for urban modelling”.
 
