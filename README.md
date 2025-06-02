@@ -1,6 +1,6 @@
-# {{PROJECT_NAME}}
+# Urban Mobility Model
 
-{{PROJECT_DESCRIPTION}}
+Modelling real-time traffic for smart cities.
 
 ## >> INITIAL SETUP FOR NEW PROJECTS <<   
 
@@ -20,13 +20,17 @@ When you create a new project, we recommend that you do the following additional
 
 ### Project Team
 
-{{TEAM_MD}}
+| Name              | Role | Affiliation          |
+|-------------------|------|----------------------|
+| Imre Draskovits | PI   | Newcastle University |
+| Jane Doe | RSE  | Newcastle University |
 
 ---
 
 ## Built With
 
-{{BUILT_WITH_MD}}
+- [Python](https://www.python.org)
+- [Docker](https://www.docker.com)
 
 ---
 
@@ -52,32 +56,32 @@ How to run tests on your local system.
 
 ## Deployment
 
-Target: {{DEPLOYMENT_TARGET}}
+Target: Azure VM (Ubuntu), GitHub Actions
 
 ---
 
 ## License
 
-{{LICENSE}}
+MIT
 
 ---
 
 ## Repository
 
-{{REPO_URL}}
+https://github.com/imre/urban-mobility
 
 ---
 
 ## Website
 
-{{WEBSITE_URL}}
+https://example.ncl.ac.uk
 
 ---
 
 ## Timeline
 
-**Start Date:** {{START_DATE}}  
-**End Date:** {{END_DATE}}
+**Start Date:** 2025-01-02  
+**End Date:** 2026-06-02
 
 ---
 
@@ -99,5 +103,5 @@ A branch per feature that is being worked on. See: https://nvie.com/posts/a-succ
 
 ## Acknowledgements
 
-{{ACKNOWLEDGEMENTS}}
+This work was funded by a grant from the EPSRC (EP/XXXXXX/1), “Example grant for urban modelling”.
 
